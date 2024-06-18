@@ -1,4 +1,4 @@
-package com.dtcc.recon.controller;
+package com.dtcc.recon.web.controller;
 
 import com.dtcc.recon.entity.BrokerRecord;
 import com.dtcc.recon.repository.BrokerRecordRepo;
